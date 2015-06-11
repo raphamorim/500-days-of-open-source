@@ -1,1 +1,3 @@
+dedicatory.txt
 introduction.txt
+chapters/what-is-open-source.txt
