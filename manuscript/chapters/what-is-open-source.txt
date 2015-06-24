@@ -8,7 +8,7 @@ Qualquer licença de software livre é também uma licença de código aberto (O
 
 O rótulo "Open Source" surgiu em uma reunião em fevereiro de 1998. Tal debate juntou personalidades que se tornaram verdadeiras referências no que diz respeito ao Open Source, como Todd Anderson, Chris Peterson (Foresight Institute), Jon "Maddog" Hall e Larry Augustin (Linux International), Sam Ockman (Silicon Valley Linux User's Group) e Eric Raymond.
 
-## Definição do Open Source
+## The Open Source Definition 
 
 A definição do Open Source foi criada pela Open Source Iniciative (OSI) a partir do texto original da Debian Free Software Guidelines (DFSG) e determina que um programa de código aberto deve garantir:
 
@@ -51,3 +51,8 @@ A licença não pode colocar restrições em outros programas que são distribu�
 
 Nenhuma cláusula da licença pode estabelecer uma tecnologia individual, estilo ou interface a ser aplicada no programa.
 
+A definição atualmente pode ser lida no site oficial em inglês, para ler basta acessar a url: ***http://opensource.org/osd-annotated***
+
+## Why choose Open Source?
+
+Essa é uma boa questão.

@@ -1,4 +1,4 @@
-# 500 days of open source
+# Introduction
 
 Apresento aqui, uma história sobre a minha inserção dentro do mundo open source. 
 Inserção talvez que ocorreu de uma forma meio tímida, atráves de um desafio que se extendeu por mais de 500 dias. 
